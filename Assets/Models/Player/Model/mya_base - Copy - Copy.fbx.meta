@@ -1,0 +1,2805 @@
+fileFormatVersion: 2
+guid: 57ac09771a89c12428b477feee2494af
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 6495993076513800201
+    second: metarig|die
+  - first:
+      74: -4833194065500635690
+    second: metarig|grab
+  - first:
+      74: 3474312208335926212
+    second: metarig|ground pound
+  - first:
+      74: -3397465012434010853
+    second: metarig|hit
+  - first:
+      74: -5501684496354943609
+    second: metarig|idle kneeling
+  - first:
+      74: -8986717944773575785
+    second: metarig|idle standing
+  - first:
+      74: -8284908221344111450
+    second: metarig|jump
+  - first:
+      74: 7960436075062795538
+    second: metarig|knee kick
+  - first:
+      74: 5990009848278280881
+    second: metarig|lunge
+  - first:
+      74: -5297019649661602221
+    second: metarig|run
+  - first:
+      74: 3584464669868677466
+    second: metarig|shoot kneeling
+  - first:
+      74: -1968141618898090070
+    second: metarig|shoot standing
+  - first:
+      74: -160478482650370978
+    second: metarig|die //// metarig
+  - first:
+      74: -4136078969734822952
+    second: metarig|grab //// metarig
+  - first:
+      74: -8557049171514714234
+    second: metarig|ground pound //// metarig
+  - first:
+      74: 3437170791235798948
+    second: metarig|hit //// metarig
+  - first:
+      74: -7805702426953755184
+    second: metarig|idle kneeling //// metarig
+  - first:
+      74: -6235577535621110909
+    second: metarig|idle standing //// metarig
+  - first:
+      74: -4586210604206409789
+    second: metarig|jump //// metarig
+  - first:
+      74: 6070147705735367244
+    second: metarig|knee kick //// metarig
+  - first:
+      74: 1918728939564229769
+    second: metarig|lunge //// metarig
+  - first:
+      74: 5575230593658046018
+    second: metarig|run //// metarig
+  - first:
+      74: -4666416297173863152
+    second: metarig|shoot kneeling //// metarig
+  - first:
+      74: 1540070969444858161
+    second: metarig|shoot standing //// metarig
+  - first:
+      74: 2364578277031654556
+    second: metarig|die //// spine
+  - first:
+      74: 5433234658300117256
+    second: metarig|die //// spine.001
+  - first:
+      74: -7851186712725507854
+    second: metarig|die //// spine.002
+  - first:
+      74: -2931599333197601957
+    second: metarig|die //// spine.003
+  - first:
+      74: 3303244749012987054
+    second: metarig|die //// spine.004
+  - first:
+      74: 4587660528198964534
+    second: metarig|die //// spine.005
+  - first:
+      74: -3268492870714653263
+    second: metarig|die //// spine.006
+  - first:
+      74: -1305387017518276776
+    second: metarig|die //// shoulder.L
+  - first:
+      74: 5742040839863129563
+    second: metarig|die //// upper_arm.L
+  - first:
+      74: -2129080625824075686
+    second: metarig|die //// forearm.L
+  - first:
+      74: -7989891124930483441
+    second: metarig|die //// hand.L
+  - first:
+      74: -1448407855839557008
+    second: metarig|die //// f_index.01.L
+  - first:
+      74: 2417480295920417927
+    second: metarig|die //// f_index.02.L
+  - first:
+      74: 157743611087868454
+    second: metarig|die //// f_index.03.L
+  - first:
+      74: -2027132967675573867
+    second: metarig|die //// thumb.01.L
+  - first:
+      74: -1556783489031251325
+    second: metarig|die //// thumb.02.L
+  - first:
+      74: 5610132694295245540
+    second: metarig|die //// thumb.03.L
+  - first:
+      74: -4014153336604721575
+    second: metarig|die //// f_middle.01.L
+  - first:
+      74: 5773478931870654181
+    second: metarig|die //// f_middle.02.L
+  - first:
+      74: 3914492530155378657
+    second: metarig|die //// f_middle.03.L
+  - first:
+      74: -919325209759379329
+    second: metarig|die //// f_ring.01.L
+  - first:
+      74: 5408312343596037643
+    second: metarig|die //// f_ring.02.L
+  - first:
+      74: 4318726529600041021
+    second: metarig|die //// f_ring.03.L
+  - first:
+      74: 9070438650163346338
+    second: metarig|die //// f_pinky.01.L
+  - first:
+      74: -767528993512142531
+    second: metarig|die //// f_pinky.02.L
+  - first:
+      74: 2385848541054052120
+    second: metarig|die //// f_pinky.03.L
+  - first:
+      74: -3900303037039378561
+    second: metarig|die //// shoulder.R
+  - first:
+      74: 9078580140997487611
+    second: metarig|die //// upper_arm.R
+  - first:
+      74: 1920147126071620390
+    second: metarig|die //// forearm.R
+  - first:
+      74: 2824547532670110310
+    second: metarig|die //// hand.R
+  - first:
+      74: 8700306007754625865
+    second: metarig|die //// f_index.01.R
+  - first:
+      74: 8239721741939373457
+    second: metarig|die //// f_index.02.R
+  - first:
+      74: -1513320385849282534
+    second: metarig|die //// f_index.03.R
+  - first:
+      74: -8226126569139203630
+    second: metarig|die //// thumb.01.R
+  - first:
+      74: 6040684605040939511
+    second: metarig|die //// thumb.02.R
+  - first:
+      74: -4455355684501081939
+    second: metarig|die //// thumb.03.R
+  - first:
+      74: 8917562429480894817
+    second: metarig|die //// f_middle.01.R
+  - first:
+      74: -8662851291875331998
+    second: metarig|die //// f_middle.02.R
+  - first:
+      74: -7296502034314201447
+    second: metarig|die //// f_middle.03.R
+  - first:
+      74: -7352934796992641653
+    second: metarig|die //// f_ring.01.R
+  - first:
+      74: -2681894027002772258
+    second: metarig|die //// f_ring.02.R
+  - first:
+      74: 7409011032488470642
+    second: metarig|die //// f_ring.03.R
+  - first:
+      74: -1031281248892887937
+    second: metarig|die //// f_pinky.01.R
+  - first:
+      74: 4346215540287311887
+    second: metarig|die //// f_pinky.02.R
+  - first:
+      74: 3947999030754248461
+    second: metarig|die //// f_pinky.03.R
+  - first:
+      74: 161016931779982419
+    second: metarig|die //// thigh.L
+  - first:
+      74: 4041277871372072867
+    second: metarig|die //// shin.L
+  - first:
+      74: 925252149431188919
+    second: metarig|die //// foot.L
+  - first:
+      74: 7926612078228113258
+    second: metarig|die //// toe.L
+  - first:
+      74: 600724942255711477
+    second: metarig|die //// thigh.R
+  - first:
+      74: 3795375068172441455
+    second: metarig|die //// shin.R
+  - first:
+      74: -1117842360506906718
+    second: metarig|die //// foot.R
+  - first:
+      74: -8516306237262023171
+    second: metarig|die //// toe.R
+  - first:
+      74: 6668432034732982971
+    second: metarig|grab //// spine
+  - first:
+      74: 8716349922441399481
+    second: metarig|grab //// spine.001
+  - first:
+      74: -1711931329659390374
+    second: metarig|grab //// spine.002
+  - first:
+      74: -4791911827825565575
+    second: metarig|grab //// spine.003
+  - first:
+      74: -1265590657864571828
+    second: metarig|grab //// spine.004
+  - first:
+      74: -4668961343596378388
+    second: metarig|grab //// spine.005
+  - first:
+      74: -5592989391258813011
+    second: metarig|grab //// spine.006
+  - first:
+      74: -5971920825868658324
+    second: metarig|grab //// shoulder.L
+  - first:
+      74: -227608383673068410
+    second: metarig|grab //// upper_arm.L
+  - first:
+      74: 720151254695353357
+    second: metarig|grab //// forearm.L
+  - first:
+      74: -5859895507536367515
+    second: metarig|grab //// hand.L
+  - first:
+      74: -2142767697362774641
+    second: metarig|grab //// f_index.01.L
+  - first:
+      74: -2157427801855484863
+    second: metarig|grab //// f_index.02.L
+  - first:
+      74: 6710602245237425419
+    second: metarig|grab //// f_index.03.L
+  - first:
+      74: -4880781901034153040
+    second: metarig|grab //// thumb.01.L
+  - first:
+      74: -879721647405999131
+    second: metarig|grab //// thumb.02.L
+  - first:
+      74: -8448821755551468111
+    second: metarig|grab //// thumb.03.L
+  - first:
+      74: -2399666628890691836
+    second: metarig|grab //// f_middle.01.L
+  - first:
+      74: 5270098778170450972
+    second: metarig|grab //// f_middle.02.L
+  - first:
+      74: 8593737455956164593
+    second: metarig|grab //// f_middle.03.L
+  - first:
+      74: 6410314462764230289
+    second: metarig|grab //// f_ring.01.L
+  - first:
+      74: 2379749235186592093
+    second: metarig|grab //// f_ring.02.L
+  - first:
+      74: 4769129626146148296
+    second: metarig|grab //// f_ring.03.L
+  - first:
+      74: -1270763353879530565
+    second: metarig|grab //// f_pinky.01.L
+  - first:
+      74: 4092399462455659134
+    second: metarig|grab //// f_pinky.02.L
+  - first:
+      74: -2694844612669354822
+    second: metarig|grab //// f_pinky.03.L
+  - first:
+      74: 1866191601831648896
+    second: metarig|grab //// shoulder.R
+  - first:
+      74: 254736573000615497
+    second: metarig|grab //// upper_arm.R
+  - first:
+      74: 2190890030604142502
+    second: metarig|grab //// forearm.R
+  - first:
+      74: -1807628392031405517
+    second: metarig|grab //// hand.R
+  - first:
+      74: -4050981439957727616
+    second: metarig|grab //// f_index.01.R
+  - first:
+      74: 1644137933026642494
+    second: metarig|grab //// f_index.02.R
+  - first:
+      74: -4163309953791792540
+    second: metarig|grab //// f_index.03.R
+  - first:
+      74: 6667211657400667023
+    second: metarig|grab //// thumb.01.R
+  - first:
+      74: 5758454727197993678
+    second: metarig|grab //// thumb.02.R
+  - first:
+      74: -2260890904254904002
+    second: metarig|grab //// thumb.03.R
+  - first:
+      74: -2415976631390380643
+    second: metarig|grab //// f_middle.01.R
+  - first:
+      74: -7885063573051136168
+    second: metarig|grab //// f_middle.02.R
+  - first:
+      74: -1600506316781240934
+    second: metarig|grab //// f_middle.03.R
+  - first:
+      74: 3112593886383370400
+    second: metarig|grab //// f_ring.01.R
+  - first:
+      74: -379008801042968255
+    second: metarig|grab //// f_ring.02.R
+  - first:
+      74: 5082584786948300049
+    second: metarig|grab //// f_ring.03.R
+  - first:
+      74: 1018328555046659592
+    second: metarig|grab //// f_pinky.01.R
+  - first:
+      74: 8179275291495927207
+    second: metarig|grab //// f_pinky.02.R
+  - first:
+      74: -6641871267553192610
+    second: metarig|grab //// f_pinky.03.R
+  - first:
+      74: 8162066546703934951
+    second: metarig|grab //// thigh.L
+  - first:
+      74: 4968545338796126367
+    second: metarig|grab //// shin.L
+  - first:
+      74: 8725097489664106828
+    second: metarig|grab //// foot.L
+  - first:
+      74: -1337563670659119684
+    second: metarig|grab //// toe.L
+  - first:
+      74: -1542711581062737367
+    second: metarig|grab //// thigh.R
+  - first:
+      74: -723624053500950172
+    second: metarig|grab //// shin.R
+  - first:
+      74: 6783918663444138351
+    second: metarig|grab //// foot.R
+  - first:
+      74: -2689936813409558565
+    second: metarig|grab //// toe.R
+  - first:
+      74: -872238555004467978
+    second: metarig|ground pound //// spine
+  - first:
+      74: -2261003815523206391
+    second: metarig|ground pound //// spine.001
+  - first:
+      74: -6797246375689382501
+    second: metarig|ground pound //// spine.002
+  - first:
+      74: 4003403222596025749
+    second: metarig|ground pound //// spine.003
+  - first:
+      74: 5645473410910183738
+    second: metarig|ground pound //// spine.004
+  - first:
+      74: -1003981155451650910
+    second: metarig|ground pound //// spine.005
+  - first:
+      74: 1166431486895559979
+    second: metarig|ground pound //// spine.006
+  - first:
+      74: 8949058903043307763
+    second: metarig|ground pound //// shoulder.L
+  - first:
+      74: -4149586779480039923
+    second: metarig|ground pound //// upper_arm.L
+  - first:
+      74: 5833491265162745920
+    second: metarig|ground pound //// forearm.L
+  - first:
+      74: -5538125675289596549
+    second: metarig|ground pound //// hand.L
+  - first:
+      74: -4340733188719880690
+    second: metarig|ground pound //// f_index.01.L
+  - first:
+      74: 2282620109044733990
+    second: metarig|ground pound //// f_index.02.L
+  - first:
+      74: -1788268030386847684
+    second: metarig|ground pound //// f_index.03.L
+  - first:
+      74: -3179175523496026902
+    second: metarig|ground pound //// thumb.01.L
+  - first:
+      74: 4470332517299929451
+    second: metarig|ground pound //// thumb.02.L
+  - first:
+      74: 9115147982405063930
+    second: metarig|ground pound //// thumb.03.L
+  - first:
+      74: 1763851618254943563
+    second: metarig|ground pound //// f_middle.01.L
+  - first:
+      74: 2768290142229776249
+    second: metarig|ground pound //// f_middle.02.L
+  - first:
+      74: -6903331123618261518
+    second: metarig|ground pound //// f_middle.03.L
+  - first:
+      74: -5913420689555087804
+    second: metarig|ground pound //// f_ring.01.L
+  - first:
+      74: 1323424001342854703
+    second: metarig|ground pound //// f_ring.02.L
+  - first:
+      74: 1375045599989132896
+    second: metarig|ground pound //// f_ring.03.L
+  - first:
+      74: 2579717465835076549
+    second: metarig|ground pound //// f_pinky.01.L
+  - first:
+      74: -3926038803606038408
+    second: metarig|ground pound //// f_pinky.02.L
+  - first:
+      74: 5703952826800734596
+    second: metarig|ground pound //// f_pinky.03.L
+  - first:
+      74: -5703820467065576771
+    second: metarig|ground pound //// shoulder.R
+  - first:
+      74: 6662130971390223968
+    second: metarig|ground pound //// upper_arm.R
+  - first:
+      74: 6385948601116987840
+    second: metarig|ground pound //// forearm.R
+  - first:
+      74: -8545332086942512074
+    second: metarig|ground pound //// hand.R
+  - first:
+      74: 1073165649993274437
+    second: metarig|ground pound //// f_index.01.R
+  - first:
+      74: -6557669409957467701
+    second: metarig|ground pound //// f_index.02.R
+  - first:
+      74: 5155597484339251234
+    second: metarig|ground pound //// f_index.03.R
+  - first:
+      74: -1396968555947506036
+    second: metarig|ground pound //// thumb.01.R
+  - first:
+      74: -8353792045182518154
+    second: metarig|ground pound //// thumb.02.R
+  - first:
+      74: -6792344859986391122
+    second: metarig|ground pound //// thumb.03.R
+  - first:
+      74: -3239939868977604085
+    second: metarig|ground pound //// f_middle.01.R
+  - first:
+      74: 2874931515177938679
+    second: metarig|ground pound //// f_middle.02.R
+  - first:
+      74: -7805264533224183270
+    second: metarig|ground pound //// f_middle.03.R
+  - first:
+      74: 2768376832667783480
+    second: metarig|ground pound //// f_ring.01.R
+  - first:
+      74: 5369433625881249555
+    second: metarig|ground pound //// f_ring.02.R
+  - first:
+      74: -6864441615677624871
+    second: metarig|ground pound //// f_ring.03.R
+  - first:
+      74: -8463255683360211814
+    second: metarig|ground pound //// f_pinky.01.R
+  - first:
+      74: -7829849107338125346
+    second: metarig|ground pound //// f_pinky.02.R
+  - first:
+      74: 2462340048358709713
+    second: metarig|ground pound //// f_pinky.03.R
+  - first:
+      74: -3392546300248546089
+    second: metarig|ground pound //// thigh.L
+  - first:
+      74: 8256691151518033613
+    second: metarig|ground pound //// shin.L
+  - first:
+      74: -6833162317880320068
+    second: metarig|ground pound //// foot.L
+  - first:
+      74: -685734313769022175
+    second: metarig|ground pound //// toe.L
+  - first:
+      74: -3372278681129902864
+    second: metarig|ground pound //// thigh.R
+  - first:
+      74: -6101160954433775603
+    second: metarig|ground pound //// shin.R
+  - first:
+      74: -2082654542393451284
+    second: metarig|ground pound //// foot.R
+  - first:
+      74: -5739371151219645443
+    second: metarig|ground pound //// toe.R
+  - first:
+      74: -4838057196683429023
+    second: metarig|hit //// spine
+  - first:
+      74: -5860519720329637570
+    second: metarig|hit //// spine.001
+  - first:
+      74: -6689487870481924442
+    second: metarig|hit //// spine.002
+  - first:
+      74: 5282448970610381141
+    second: metarig|hit //// spine.003
+  - first:
+      74: 5827342435163061290
+    second: metarig|hit //// spine.004
+  - first:
+      74: 7642436511974451871
+    second: metarig|hit //// spine.005
+  - first:
+      74: -3682594647705399624
+    second: metarig|hit //// spine.006
+  - first:
+      74: 8604756217502915582
+    second: metarig|hit //// shoulder.L
+  - first:
+      74: -2627701817187727696
+    second: metarig|hit //// upper_arm.L
+  - first:
+      74: 2965658715879821145
+    second: metarig|hit //// forearm.L
+  - first:
+      74: -3650654752700774789
+    second: metarig|hit //// hand.L
+  - first:
+      74: -6115216802043289436
+    second: metarig|hit //// f_index.01.L
+  - first:
+      74: -7959161763522993309
+    second: metarig|hit //// f_index.02.L
+  - first:
+      74: 4762423174592618916
+    second: metarig|hit //// f_index.03.L
+  - first:
+      74: 2175373196626222071
+    second: metarig|hit //// thumb.01.L
+  - first:
+      74: -7084366295342941474
+    second: metarig|hit //// thumb.02.L
+  - first:
+      74: -383442328850962240
+    second: metarig|hit //// thumb.03.L
+  - first:
+      74: -2109083013532802109
+    second: metarig|hit //// f_middle.01.L
+  - first:
+      74: 7805572248004858820
+    second: metarig|hit //// f_middle.02.L
+  - first:
+      74: -6387783936774986253
+    second: metarig|hit //// f_middle.03.L
+  - first:
+      74: -8115583316993350678
+    second: metarig|hit //// f_ring.01.L
+  - first:
+      74: -1960559886537572716
+    second: metarig|hit //// f_ring.02.L
+  - first:
+      74: 4522437878660066589
+    second: metarig|hit //// f_ring.03.L
+  - first:
+      74: -5859696877655808209
+    second: metarig|hit //// f_pinky.01.L
+  - first:
+      74: 1941976516363810019
+    second: metarig|hit //// f_pinky.02.L
+  - first:
+      74: -8240157282540230604
+    second: metarig|hit //// f_pinky.03.L
+  - first:
+      74: -4400603736722135214
+    second: metarig|hit //// shoulder.R
+  - first:
+      74: 8565496073647786154
+    second: metarig|hit //// upper_arm.R
+  - first:
+      74: 5881137769934442210
+    second: metarig|hit //// forearm.R
+  - first:
+      74: 605725600756710987
+    second: metarig|hit //// hand.R
+  - first:
+      74: -2639432221436306372
+    second: metarig|hit //// f_index.01.R
+  - first:
+      74: 966451889934631261
+    second: metarig|hit //// f_index.02.R
+  - first:
+      74: 4644654743529990935
+    second: metarig|hit //// f_index.03.R
+  - first:
+      74: -8164482701764630739
+    second: metarig|hit //// thumb.01.R
+  - first:
+      74: -3519182899938295393
+    second: metarig|hit //// thumb.02.R
+  - first:
+      74: -2243773713610784936
+    second: metarig|hit //// thumb.03.R
+  - first:
+      74: -4630306280294852451
+    second: metarig|hit //// f_middle.01.R
+  - first:
+      74: 7354012981037554332
+    second: metarig|hit //// f_middle.02.R
+  - first:
+      74: -133215838882271414
+    second: metarig|hit //// f_middle.03.R
+  - first:
+      74: 4673228666345165162
+    second: metarig|hit //// f_ring.01.R
+  - first:
+      74: 5551613528918768148
+    second: metarig|hit //// f_ring.02.R
+  - first:
+      74: -7755151677966863161
+    second: metarig|hit //// f_ring.03.R
+  - first:
+      74: 2531708488282167309
+    second: metarig|hit //// f_pinky.01.R
+  - first:
+      74: 4148235318342418071
+    second: metarig|hit //// f_pinky.02.R
+  - first:
+      74: -1697996334914173975
+    second: metarig|hit //// f_pinky.03.R
+  - first:
+      74: -7018000885760138118
+    second: metarig|hit //// thigh.L
+  - first:
+      74: -4227773389856362172
+    second: metarig|hit //// shin.L
+  - first:
+      74: -4487958478789168946
+    second: metarig|hit //// foot.L
+  - first:
+      74: -5209866839603183249
+    second: metarig|hit //// toe.L
+  - first:
+      74: 6200645479499738133
+    second: metarig|hit //// thigh.R
+  - first:
+      74: -5838415312167968198
+    second: metarig|hit //// shin.R
+  - first:
+      74: 6888588825604016847
+    second: metarig|hit //// foot.R
+  - first:
+      74: 7288720317837545884
+    second: metarig|hit //// toe.R
+  - first:
+      74: -1554591528989097518
+    second: metarig|idle kneeling //// spine
+  - first:
+      74: 4021867032884707333
+    second: metarig|idle kneeling //// spine.001
+  - first:
+      74: -5267750317439528229
+    second: metarig|idle kneeling //// spine.002
+  - first:
+      74: 2218989604347595147
+    second: metarig|idle kneeling //// spine.003
+  - first:
+      74: 1442016681869463323
+    second: metarig|idle kneeling //// spine.004
+  - first:
+      74: -8795047680385857635
+    second: metarig|idle kneeling //// spine.005
+  - first:
+      74: 5852803281332256709
+    second: metarig|idle kneeling //// spine.006
+  - first:
+      74: -6928117140574363910
+    second: metarig|idle kneeling //// shoulder.L
+  - first:
+      74: -5833765435271105839
+    second: metarig|idle kneeling //// upper_arm.L
+  - first:
+      74: 8239419543235971605
+    second: metarig|idle kneeling //// forearm.L
+  - first:
+      74: 6476780742928652635
+    second: metarig|idle kneeling //// hand.L
+  - first:
+      74: -3433642199303042160
+    second: metarig|idle kneeling //// f_index.01.L
+  - first:
+      74: -4486831550375748484
+    second: metarig|idle kneeling //// f_index.02.L
+  - first:
+      74: -8398307482650124903
+    second: metarig|idle kneeling //// f_index.03.L
+  - first:
+      74: 8116873871774491157
+    second: metarig|idle kneeling //// thumb.01.L
+  - first:
+      74: -7149448745393656843
+    second: metarig|idle kneeling //// thumb.02.L
+  - first:
+      74: -642012013490252117
+    second: metarig|idle kneeling //// thumb.03.L
+  - first:
+      74: -8076422163585869949
+    second: metarig|idle kneeling //// f_middle.01.L
+  - first:
+      74: 5044169650979102985
+    second: metarig|idle kneeling //// f_middle.02.L
+  - first:
+      74: 8500628045346516461
+    second: metarig|idle kneeling //// f_middle.03.L
+  - first:
+      74: 7532626072852074822
+    second: metarig|idle kneeling //// f_ring.01.L
+  - first:
+      74: -393506363514954383
+    second: metarig|idle kneeling //// f_ring.02.L
+  - first:
+      74: -7898176031652749928
+    second: metarig|idle kneeling //// f_ring.03.L
+  - first:
+      74: 7386395987868025275
+    second: metarig|idle kneeling //// f_pinky.01.L
+  - first:
+      74: -2177031984789609636
+    second: metarig|idle kneeling //// f_pinky.02.L
+  - first:
+      74: -6690384292552710172
+    second: metarig|idle kneeling //// f_pinky.03.L
+  - first:
+      74: 8679610137288402461
+    second: metarig|idle kneeling //// shoulder.R
+  - first:
+      74: -8092187283604667125
+    second: metarig|idle kneeling //// upper_arm.R
+  - first:
+      74: 8809523784000564540
+    second: metarig|idle kneeling //// forearm.R
+  - first:
+      74: 2132236990216806335
+    second: metarig|idle kneeling //// hand.R
+  - first:
+      74: -3317883458087527622
+    second: metarig|idle kneeling //// f_index.01.R
+  - first:
+      74: -1769244935973265014
+    second: metarig|idle kneeling //// f_index.02.R
+  - first:
+      74: 8711059288884497573
+    second: metarig|idle kneeling //// f_index.03.R
+  - first:
+      74: 6337286460860480910
+    second: metarig|idle kneeling //// thumb.01.R
+  - first:
+      74: 6448548377093096997
+    second: metarig|idle kneeling //// thumb.02.R
+  - first:
+      74: 6982940546308534051
+    second: metarig|idle kneeling //// thumb.03.R
+  - first:
+      74: 8564035250908991177
+    second: metarig|idle kneeling //// f_middle.01.R
+  - first:
+      74: -4752067283104014803
+    second: metarig|idle kneeling //// f_middle.02.R
+  - first:
+      74: 3256349527959833457
+    second: metarig|idle kneeling //// f_middle.03.R
+  - first:
+      74: -5408261600229687537
+    second: metarig|idle kneeling //// f_ring.01.R
+  - first:
+      74: -665344723429525372
+    second: metarig|idle kneeling //// f_ring.02.R
+  - first:
+      74: 5823453681220439217
+    second: metarig|idle kneeling //// f_ring.03.R
+  - first:
+      74: -133608652950910149
+    second: metarig|idle kneeling //// f_pinky.01.R
+  - first:
+      74: 4998367608212216108
+    second: metarig|idle kneeling //// f_pinky.02.R
+  - first:
+      74: -7537667457453750562
+    second: metarig|idle kneeling //// f_pinky.03.R
+  - first:
+      74: -5904927451142114135
+    second: metarig|idle kneeling //// thigh.L
+  - first:
+      74: -917610334949365270
+    second: metarig|idle kneeling //// shin.L
+  - first:
+      74: -5720120427978842673
+    second: metarig|idle kneeling //// foot.L
+  - first:
+      74: -2947689721072941955
+    second: metarig|idle kneeling //// toe.L
+  - first:
+      74: -5196699887600191919
+    second: metarig|idle kneeling //// thigh.R
+  - first:
+      74: -556755162714358892
+    second: metarig|idle kneeling //// shin.R
+  - first:
+      74: -7358547558340231900
+    second: metarig|idle kneeling //// foot.R
+  - first:
+      74: 7668073622114694069
+    second: metarig|idle kneeling //// toe.R
+  - first:
+      74: -8169122047044106378
+    second: metarig|idle standing //// spine
+  - first:
+      74: 6787736628743031060
+    second: metarig|idle standing //// spine.001
+  - first:
+      74: 6237669255438374010
+    second: metarig|idle standing //// spine.002
+  - first:
+      74: -5127855651872527169
+    second: metarig|idle standing //// spine.003
+  - first:
+      74: -911508827898428408
+    second: metarig|idle standing //// spine.004
+  - first:
+      74: 1644325726972084109
+    second: metarig|idle standing //// spine.005
+  - first:
+      74: -7310169075633282616
+    second: metarig|idle standing //// spine.006
+  - first:
+      74: 5842635995546220081
+    second: metarig|idle standing //// shoulder.L
+  - first:
+      74: -3698902065232820792
+    second: metarig|idle standing //// upper_arm.L
+  - first:
+      74: -8425534610256012591
+    second: metarig|idle standing //// forearm.L
+  - first:
+      74: -2956486323852999657
+    second: metarig|idle standing //// hand.L
+  - first:
+      74: -6501273307290746955
+    second: metarig|idle standing //// f_index.01.L
+  - first:
+      74: 6797290947644334647
+    second: metarig|idle standing //// f_index.02.L
+  - first:
+      74: 9146509273006703305
+    second: metarig|idle standing //// f_index.03.L
+  - first:
+      74: 9005540232136656374
+    second: metarig|idle standing //// thumb.01.L
+  - first:
+      74: 9204378557776946577
+    second: metarig|idle standing //// thumb.02.L
+  - first:
+      74: -6350173818515849203
+    second: metarig|idle standing //// thumb.03.L
+  - first:
+      74: -1534800694753128212
+    second: metarig|idle standing //// f_middle.01.L
+  - first:
+      74: 5027988098015531819
+    second: metarig|idle standing //// f_middle.02.L
+  - first:
+      74: -7034738914381797545
+    second: metarig|idle standing //// f_middle.03.L
+  - first:
+      74: 6008523944836120250
+    second: metarig|idle standing //// f_ring.01.L
+  - first:
+      74: -6151667918322567257
+    second: metarig|idle standing //// f_ring.02.L
+  - first:
+      74: -6414482893076717920
+    second: metarig|idle standing //// f_ring.03.L
+  - first:
+      74: -5229220799589632732
+    second: metarig|idle standing //// f_pinky.01.L
+  - first:
+      74: 1190255086491704759
+    second: metarig|idle standing //// f_pinky.02.L
+  - first:
+      74: 5242729831953586110
+    second: metarig|idle standing //// f_pinky.03.L
+  - first:
+      74: 8421512519140142450
+    second: metarig|idle standing //// shoulder.R
+  - first:
+      74: 4623789188560667443
+    second: metarig|idle standing //// upper_arm.R
+  - first:
+      74: -3981891166891218103
+    second: metarig|idle standing //// forearm.R
+  - first:
+      74: -1324090584492989314
+    second: metarig|idle standing //// hand.R
+  - first:
+      74: -4621764827262614389
+    second: metarig|idle standing //// f_index.01.R
+  - first:
+      74: -3064613301300916502
+    second: metarig|idle standing //// f_index.02.R
+  - first:
+      74: 9160533364238994643
+    second: metarig|idle standing //// f_index.03.R
+  - first:
+      74: 867631607443395602
+    second: metarig|idle standing //// thumb.01.R
+  - first:
+      74: 750003287805118150
+    second: metarig|idle standing //// thumb.02.R
+  - first:
+      74: -4916286660833385397
+    second: metarig|idle standing //// thumb.03.R
+  - first:
+      74: 5050636546687727957
+    second: metarig|idle standing //// f_middle.01.R
+  - first:
+      74: 3670738122602873876
+    second: metarig|idle standing //// f_middle.02.R
+  - first:
+      74: 2063875293796496217
+    second: metarig|idle standing //// f_middle.03.R
+  - first:
+      74: 2777901543121477428
+    second: metarig|idle standing //// f_ring.01.R
+  - first:
+      74: 2702390115913863327
+    second: metarig|idle standing //// f_ring.02.R
+  - first:
+      74: 3599010775481012810
+    second: metarig|idle standing //// f_ring.03.R
+  - first:
+      74: 7904146815803715075
+    second: metarig|idle standing //// f_pinky.01.R
+  - first:
+      74: 3662469031415650069
+    second: metarig|idle standing //// f_pinky.02.R
+  - first:
+      74: 1387308125973291894
+    second: metarig|idle standing //// f_pinky.03.R
+  - first:
+      74: 6095340907129727079
+    second: metarig|idle standing //// thigh.L
+  - first:
+      74: 5147248569706749043
+    second: metarig|idle standing //// shin.L
+  - first:
+      74: 2523910367472595414
+    second: metarig|idle standing //// foot.L
+  - first:
+      74: -1425742753969148926
+    second: metarig|idle standing //// toe.L
+  - first:
+      74: 8255200683509342630
+    second: metarig|idle standing //// thigh.R
+  - first:
+      74: -2924629577932377457
+    second: metarig|idle standing //// shin.R
+  - first:
+      74: 2455294375726343595
+    second: metarig|idle standing //// foot.R
+  - first:
+      74: -7139460183031636941
+    second: metarig|idle standing //// toe.R
+  - first:
+      74: -6087784767666875714
+    second: metarig|jump //// spine
+  - first:
+      74: 4051950983543033393
+    second: metarig|jump //// spine.001
+  - first:
+      74: -1827783918011768962
+    second: metarig|jump //// spine.002
+  - first:
+      74: -4431257717489662282
+    second: metarig|jump //// spine.003
+  - first:
+      74: 2507745508461436459
+    second: metarig|jump //// spine.004
+  - first:
+      74: 5525519811242900363
+    second: metarig|jump //// spine.005
+  - first:
+      74: -1588056176833495875
+    second: metarig|jump //// spine.006
+  - first:
+      74: -7439198331361540259
+    second: metarig|jump //// shoulder.L
+  - first:
+      74: 7980477030595579636
+    second: metarig|jump //// upper_arm.L
+  - first:
+      74: -3087259697255965487
+    second: metarig|jump //// forearm.L
+  - first:
+      74: -8731564295000749291
+    second: metarig|jump //// hand.L
+  - first:
+      74: 5200678541407716444
+    second: metarig|jump //// f_index.01.L
+  - first:
+      74: 2711666625924416411
+    second: metarig|jump //// f_index.02.L
+  - first:
+      74: 6347349154914810892
+    second: metarig|jump //// f_index.03.L
+  - first:
+      74: -6870673218008074456
+    second: metarig|jump //// thumb.01.L
+  - first:
+      74: -8120143834422705065
+    second: metarig|jump //// thumb.02.L
+  - first:
+      74: 6323237410057318146
+    second: metarig|jump //// thumb.03.L
+  - first:
+      74: -2029370344004394141
+    second: metarig|jump //// f_middle.01.L
+  - first:
+      74: -8376587394937862167
+    second: metarig|jump //// f_middle.02.L
+  - first:
+      74: -6779254244595518394
+    second: metarig|jump //// f_middle.03.L
+  - first:
+      74: -3752891272088627579
+    second: metarig|jump //// f_ring.01.L
+  - first:
+      74: 7840726093915234389
+    second: metarig|jump //// f_ring.02.L
+  - first:
+      74: -758929537606784458
+    second: metarig|jump //// f_ring.03.L
+  - first:
+      74: -6257042809619258824
+    second: metarig|jump //// f_pinky.01.L
+  - first:
+      74: 4796866088701177418
+    second: metarig|jump //// f_pinky.02.L
+  - first:
+      74: 6469251850773572031
+    second: metarig|jump //// f_pinky.03.L
+  - first:
+      74: 7666282547667687183
+    second: metarig|jump //// shoulder.R
+  - first:
+      74: -6336984875766803953
+    second: metarig|jump //// upper_arm.R
+  - first:
+      74: -6134063545862278660
+    second: metarig|jump //// forearm.R
+  - first:
+      74: -3243883141859923729
+    second: metarig|jump //// hand.R
+  - first:
+      74: 4974131523104330578
+    second: metarig|jump //// f_index.01.R
+  - first:
+      74: 8342779186447444536
+    second: metarig|jump //// f_index.02.R
+  - first:
+      74: -2556435429275109252
+    second: metarig|jump //// f_index.03.R
+  - first:
+      74: -4164941169503467676
+    second: metarig|jump //// thumb.01.R
+  - first:
+      74: 2403100628089719749
+    second: metarig|jump //// thumb.02.R
+  - first:
+      74: -3244760104423037439
+    second: metarig|jump //// thumb.03.R
+  - first:
+      74: 8318286275548586146
+    second: metarig|jump //// f_middle.01.R
+  - first:
+      74: -6793766407144201724
+    second: metarig|jump //// f_middle.02.R
+  - first:
+      74: 278757255251302358
+    second: metarig|jump //// f_middle.03.R
+  - first:
+      74: -3450481919463655402
+    second: metarig|jump //// f_ring.01.R
+  - first:
+      74: 5964201581391455705
+    second: metarig|jump //// f_ring.02.R
+  - first:
+      74: -7361766493025669335
+    second: metarig|jump //// f_ring.03.R
+  - first:
+      74: -8671233419795115413
+    second: metarig|jump //// f_pinky.01.R
+  - first:
+      74: 6712406787192883300
+    second: metarig|jump //// f_pinky.02.R
+  - first:
+      74: -2253872232256850173
+    second: metarig|jump //// f_pinky.03.R
+  - first:
+      74: -2574166534241981343
+    second: metarig|jump //// thigh.L
+  - first:
+      74: -7758822760864573605
+    second: metarig|jump //// shin.L
+  - first:
+      74: 2538978607772060288
+    second: metarig|jump //// foot.L
+  - first:
+      74: 6468021010573485577
+    second: metarig|jump //// toe.L
+  - first:
+      74: 5151905890146489833
+    second: metarig|jump //// thigh.R
+  - first:
+      74: 6685562972121383515
+    second: metarig|jump //// shin.R
+  - first:
+      74: -1976459984712550698
+    second: metarig|jump //// foot.R
+  - first:
+      74: 5745623146664395295
+    second: metarig|jump //// toe.R
+  - first:
+      74: -1783995117479538311
+    second: metarig|knee kick //// spine
+  - first:
+      74: 7390945958391925585
+    second: metarig|knee kick //// spine.001
+  - first:
+      74: -5692631574717376169
+    second: metarig|knee kick //// spine.002
+  - first:
+      74: -2752836208044251627
+    second: metarig|knee kick //// spine.003
+  - first:
+      74: 5834609720639998138
+    second: metarig|knee kick //// spine.004
+  - first:
+      74: 5412839608935589047
+    second: metarig|knee kick //// spine.005
+  - first:
+      74: 2107967687163990930
+    second: metarig|knee kick //// spine.006
+  - first:
+      74: 2114902195855883856
+    second: metarig|knee kick //// shoulder.L
+  - first:
+      74: -7117518805983869295
+    second: metarig|knee kick //// upper_arm.L
+  - first:
+      74: -2626331744061776430
+    second: metarig|knee kick //// forearm.L
+  - first:
+      74: 8086257789990910410
+    second: metarig|knee kick //// hand.L
+  - first:
+      74: 3778717650103846074
+    second: metarig|knee kick //// f_index.01.L
+  - first:
+      74: -5939069278305570159
+    second: metarig|knee kick //// f_index.02.L
+  - first:
+      74: -5343281783066187963
+    second: metarig|knee kick //// f_index.03.L
+  - first:
+      74: -6281807883234090034
+    second: metarig|knee kick //// thumb.01.L
+  - first:
+      74: -3698667870579990876
+    second: metarig|knee kick //// thumb.02.L
+  - first:
+      74: 6504865688515902861
+    second: metarig|knee kick //// thumb.03.L
+  - first:
+      74: -6478092282829132123
+    second: metarig|knee kick //// f_middle.01.L
+  - first:
+      74: 3480011567147175923
+    second: metarig|knee kick //// f_middle.02.L
+  - first:
+      74: 7374486963041237214
+    second: metarig|knee kick //// f_middle.03.L
+  - first:
+      74: 1471418002072786960
+    second: metarig|knee kick //// f_ring.01.L
+  - first:
+      74: -5997860754971980356
+    second: metarig|knee kick //// f_ring.02.L
+  - first:
+      74: 3035728132701036727
+    second: metarig|knee kick //// f_ring.03.L
+  - first:
+      74: -4640880272389838824
+    second: metarig|knee kick //// f_pinky.01.L
+  - first:
+      74: 1325093077292534058
+    second: metarig|knee kick //// f_pinky.02.L
+  - first:
+      74: -2000250203028202021
+    second: metarig|knee kick //// f_pinky.03.L
+  - first:
+      74: 6788928824367462503
+    second: metarig|knee kick //// shoulder.R
+  - first:
+      74: -3517999616609246684
+    second: metarig|knee kick //// upper_arm.R
+  - first:
+      74: 8613997155964910751
+    second: metarig|knee kick //// forearm.R
+  - first:
+      74: -1527193000121405366
+    second: metarig|knee kick //// hand.R
+  - first:
+      74: -3825975036220662905
+    second: metarig|knee kick //// f_index.01.R
+  - first:
+      74: 5874568080597802307
+    second: metarig|knee kick //// f_index.02.R
+  - first:
+      74: 6834516560739905153
+    second: metarig|knee kick //// f_index.03.R
+  - first:
+      74: 8437840496907165081
+    second: metarig|knee kick //// thumb.01.R
+  - first:
+      74: -1799331840161148507
+    second: metarig|knee kick //// thumb.02.R
+  - first:
+      74: 2361810903165856694
+    second: metarig|knee kick //// thumb.03.R
+  - first:
+      74: 2084098657825574409
+    second: metarig|knee kick //// f_middle.01.R
+  - first:
+      74: -5743560004802131215
+    second: metarig|knee kick //// f_middle.02.R
+  - first:
+      74: -2072595371353148382
+    second: metarig|knee kick //// f_middle.03.R
+  - first:
+      74: 1967046627013536759
+    second: metarig|knee kick //// f_ring.01.R
+  - first:
+      74: -2032891957558956573
+    second: metarig|knee kick //// f_ring.02.R
+  - first:
+      74: -5938838072133882658
+    second: metarig|knee kick //// f_ring.03.R
+  - first:
+      74: 7682739789798967189
+    second: metarig|knee kick //// f_pinky.01.R
+  - first:
+      74: -1859614303106128156
+    second: metarig|knee kick //// f_pinky.02.R
+  - first:
+      74: 3088478433426770887
+    second: metarig|knee kick //// f_pinky.03.R
+  - first:
+      74: 6626569248175470747
+    second: metarig|knee kick //// thigh.L
+  - first:
+      74: 7081479204044059596
+    second: metarig|knee kick //// shin.L
+  - first:
+      74: -5051013771549187434
+    second: metarig|knee kick //// foot.L
+  - first:
+      74: -6397616119509432374
+    second: metarig|knee kick //// toe.L
+  - first:
+      74: 3526281102069906938
+    second: metarig|knee kick //// thigh.R
+  - first:
+      74: -1919712081646377914
+    second: metarig|knee kick //// shin.R
+  - first:
+      74: 6421092740418150317
+    second: metarig|knee kick //// foot.R
+  - first:
+      74: -2726242536415209047
+    second: metarig|knee kick //// toe.R
+  - first:
+      74: 1081314963759262661
+    second: metarig|lunge //// spine
+  - first:
+      74: -8821884882308835098
+    second: metarig|lunge //// spine.001
+  - first:
+      74: -4320053446321460137
+    second: metarig|lunge //// spine.002
+  - first:
+      74: -5929622838655150175
+    second: metarig|lunge //// spine.003
+  - first:
+      74: 3138472226219543817
+    second: metarig|lunge //// spine.004
+  - first:
+      74: 5633447330005540610
+    second: metarig|lunge //// spine.005
+  - first:
+      74: 7853024010829032390
+    second: metarig|lunge //// spine.006
+  - first:
+      74: 8085862115182752388
+    second: metarig|lunge //// shoulder.L
+  - first:
+      74: -2120115878628024977
+    second: metarig|lunge //// upper_arm.L
+  - first:
+      74: -6512663793336081226
+    second: metarig|lunge //// forearm.L
+  - first:
+      74: -6517464840834869839
+    second: metarig|lunge //// hand.L
+  - first:
+      74: 1340308928937935009
+    second: metarig|lunge //// f_index.01.L
+  - first:
+      74: 2026492734505483827
+    second: metarig|lunge //// f_index.02.L
+  - first:
+      74: -8847837666430124917
+    second: metarig|lunge //// f_index.03.L
+  - first:
+      74: 7529930006748030503
+    second: metarig|lunge //// thumb.01.L
+  - first:
+      74: 1433814487052679164
+    second: metarig|lunge //// thumb.02.L
+  - first:
+      74: 8138871250622801949
+    second: metarig|lunge //// thumb.03.L
+  - first:
+      74: -2641563748368218215
+    second: metarig|lunge //// f_middle.01.L
+  - first:
+      74: 34201001506628617
+    second: metarig|lunge //// f_middle.02.L
+  - first:
+      74: -6109218376535588091
+    second: metarig|lunge //// f_middle.03.L
+  - first:
+      74: 7476264644039518359
+    second: metarig|lunge //// f_ring.01.L
+  - first:
+      74: 6341545295692536297
+    second: metarig|lunge //// f_ring.02.L
+  - first:
+      74: -3586313085791985875
+    second: metarig|lunge //// f_ring.03.L
+  - first:
+      74: -7753631623787896782
+    second: metarig|lunge //// f_pinky.01.L
+  - first:
+      74: -556195843024021872
+    second: metarig|lunge //// f_pinky.02.L
+  - first:
+      74: -3379569234223696327
+    second: metarig|lunge //// f_pinky.03.L
+  - first:
+      74: 3582947531539167764
+    second: metarig|lunge //// shoulder.R
+  - first:
+      74: -3261997605060634588
+    second: metarig|lunge //// upper_arm.R
+  - first:
+      74: -9079797447618614124
+    second: metarig|lunge //// forearm.R
+  - first:
+      74: 261295360533068689
+    second: metarig|lunge //// hand.R
+  - first:
+      74: -1797299906054973988
+    second: metarig|lunge //// f_index.01.R
+  - first:
+      74: 610688107871388194
+    second: metarig|lunge //// f_index.02.R
+  - first:
+      74: 2490064776612795679
+    second: metarig|lunge //// f_index.03.R
+  - first:
+      74: 7121849243947419505
+    second: metarig|lunge //// thumb.01.R
+  - first:
+      74: 8643123873857758083
+    second: metarig|lunge //// thumb.02.R
+  - first:
+      74: 7738869643353885323
+    second: metarig|lunge //// thumb.03.R
+  - first:
+      74: -1563295965211424136
+    second: metarig|lunge //// f_middle.01.R
+  - first:
+      74: 7705413359299347832
+    second: metarig|lunge //// f_middle.02.R
+  - first:
+      74: 5828909379618469587
+    second: metarig|lunge //// f_middle.03.R
+  - first:
+      74: 2519410917746002915
+    second: metarig|lunge //// f_ring.01.R
+  - first:
+      74: -2552500311497666314
+    second: metarig|lunge //// f_ring.02.R
+  - first:
+      74: -1260210913048827383
+    second: metarig|lunge //// f_ring.03.R
+  - first:
+      74: -2444632231739203739
+    second: metarig|lunge //// f_pinky.01.R
+  - first:
+      74: 417855914309310500
+    second: metarig|lunge //// f_pinky.02.R
+  - first:
+      74: 602150753016311665
+    second: metarig|lunge //// f_pinky.03.R
+  - first:
+      74: 4375704593173852812
+    second: metarig|lunge //// thigh.L
+  - first:
+      74: -7277978000212858707
+    second: metarig|lunge //// shin.L
+  - first:
+      74: 6111499577579036
+    second: metarig|lunge //// foot.L
+  - first:
+      74: -134215229608513430
+    second: metarig|lunge //// toe.L
+  - first:
+      74: -4900482845832141799
+    second: metarig|lunge //// thigh.R
+  - first:
+      74: -4094871397899933437
+    second: metarig|lunge //// shin.R
+  - first:
+      74: -3026278678353299773
+    second: metarig|lunge //// foot.R
+  - first:
+      74: 8155584326579498318
+    second: metarig|lunge //// toe.R
+  - first:
+      74: 4974867806371081560
+    second: metarig|run //// spine
+  - first:
+      74: 3195749206724143935
+    second: metarig|run //// spine.001
+  - first:
+      74: -4814273569941367056
+    second: metarig|run //// spine.002
+  - first:
+      74: -7338764032010064828
+    second: metarig|run //// spine.003
+  - first:
+      74: 2247833731871886774
+    second: metarig|run //// spine.004
+  - first:
+      74: 3490680047763488766
+    second: metarig|run //// spine.005
+  - first:
+      74: -3986434353495477398
+    second: metarig|run //// spine.006
+  - first:
+      74: -301797121213604542
+    second: metarig|run //// shoulder.L
+  - first:
+      74: 8779477831834914172
+    second: metarig|run //// upper_arm.L
+  - first:
+      74: 4735306713704462978
+    second: metarig|run //// forearm.L
+  - first:
+      74: 5371395541555555985
+    second: metarig|run //// hand.L
+  - first:
+      74: 4865963439494824041
+    second: metarig|run //// f_index.01.L
+  - first:
+      74: -289425301791736966
+    second: metarig|run //// f_index.02.L
+  - first:
+      74: 4327545867966594975
+    second: metarig|run //// f_index.03.L
+  - first:
+      74: 1790198121431078567
+    second: metarig|run //// thumb.01.L
+  - first:
+      74: -4339819998142009865
+    second: metarig|run //// thumb.02.L
+  - first:
+      74: 4143045893999020073
+    second: metarig|run //// thumb.03.L
+  - first:
+      74: -960874959502364444
+    second: metarig|run //// f_middle.01.L
+  - first:
+      74: -5448846267129687644
+    second: metarig|run //// f_middle.02.L
+  - first:
+      74: -2715580820755738456
+    second: metarig|run //// f_middle.03.L
+  - first:
+      74: 380644106506794559
+    second: metarig|run //// f_ring.01.L
+  - first:
+      74: -2628244738734958356
+    second: metarig|run //// f_ring.02.L
+  - first:
+      74: 4360983218491624841
+    second: metarig|run //// f_ring.03.L
+  - first:
+      74: -6944516481049365117
+    second: metarig|run //// f_pinky.01.L
+  - first:
+      74: 2426435652094158421
+    second: metarig|run //// f_pinky.02.L
+  - first:
+      74: 7920685586983796658
+    second: metarig|run //// f_pinky.03.L
+  - first:
+      74: -7071449560310330276
+    second: metarig|run //// shoulder.R
+  - first:
+      74: 5876326320865916858
+    second: metarig|run //// upper_arm.R
+  - first:
+      74: -8709295151960291811
+    second: metarig|run //// forearm.R
+  - first:
+      74: 8438284577618796815
+    second: metarig|run //// hand.R
+  - first:
+      74: 4881376456530230858
+    second: metarig|run //// f_index.01.R
+  - first:
+      74: 3386495040198126214
+    second: metarig|run //// f_index.02.R
+  - first:
+      74: -2357211469299155111
+    second: metarig|run //// f_index.03.R
+  - first:
+      74: 3485981313993656524
+    second: metarig|run //// thumb.01.R
+  - first:
+      74: -293627267427972085
+    second: metarig|run //// thumb.02.R
+  - first:
+      74: 5211581203325528676
+    second: metarig|run //// thumb.03.R
+  - first:
+      74: 8562406468659033196
+    second: metarig|run //// f_middle.01.R
+  - first:
+      74: 2178022608020031238
+    second: metarig|run //// f_middle.02.R
+  - first:
+      74: -9081326397701264962
+    second: metarig|run //// f_middle.03.R
+  - first:
+      74: 5049567704023294112
+    second: metarig|run //// f_ring.01.R
+  - first:
+      74: -8545365339487248467
+    second: metarig|run //// f_ring.02.R
+  - first:
+      74: 1379257446680280979
+    second: metarig|run //// f_ring.03.R
+  - first:
+      74: 4427511322283850724
+    second: metarig|run //// f_pinky.01.R
+  - first:
+      74: -1115244100817829168
+    second: metarig|run //// f_pinky.02.R
+  - first:
+      74: 7610150804255006520
+    second: metarig|run //// f_pinky.03.R
+  - first:
+      74: 4184032729796643447
+    second: metarig|run //// thigh.L
+  - first:
+      74: -721161983289126868
+    second: metarig|run //// shin.L
+  - first:
+      74: 4671349914336001523
+    second: metarig|run //// foot.L
+  - first:
+      74: 2516161165958050095
+    second: metarig|run //// toe.L
+  - first:
+      74: -1244453311103118012
+    second: metarig|run //// thigh.R
+  - first:
+      74: -3750054065434693450
+    second: metarig|run //// shin.R
+  - first:
+      74: -8620319142396252951
+    second: metarig|run //// foot.R
+  - first:
+      74: -1754770535202149187
+    second: metarig|run //// toe.R
+  - first:
+      74: 1340814377700302852
+    second: metarig|shoot kneeling //// spine
+  - first:
+      74: -5854913091934741485
+    second: metarig|shoot kneeling //// spine.001
+  - first:
+      74: -1052813143594788240
+    second: metarig|shoot kneeling //// spine.002
+  - first:
+      74: 2848727359745591825
+    second: metarig|shoot kneeling //// spine.003
+  - first:
+      74: 119375396546596791
+    second: metarig|shoot kneeling //// spine.004
+  - first:
+      74: 6463418896288509635
+    second: metarig|shoot kneeling //// spine.005
+  - first:
+      74: -8012849750552143877
+    second: metarig|shoot kneeling //// spine.006
+  - first:
+      74: -9090011660545493565
+    second: metarig|shoot kneeling //// shoulder.L
+  - first:
+      74: -4746294894194057351
+    second: metarig|shoot kneeling //// upper_arm.L
+  - first:
+      74: 3037059937084304363
+    second: metarig|shoot kneeling //// forearm.L
+  - first:
+      74: 4281041218819285580
+    second: metarig|shoot kneeling //// hand.L
+  - first:
+      74: 6978339711165349417
+    second: metarig|shoot kneeling //// f_index.01.L
+  - first:
+      74: -5329451342992989229
+    second: metarig|shoot kneeling //// f_index.02.L
+  - first:
+      74: 6633137573205206891
+    second: metarig|shoot kneeling //// f_index.03.L
+  - first:
+      74: -3359156690498606411
+    second: metarig|shoot kneeling //// thumb.01.L
+  - first:
+      74: -9168969010328841288
+    second: metarig|shoot kneeling //// thumb.02.L
+  - first:
+      74: 1003467330327602978
+    second: metarig|shoot kneeling //// thumb.03.L
+  - first:
+      74: 6806614170401319037
+    second: metarig|shoot kneeling //// f_middle.01.L
+  - first:
+      74: -5522822194581653942
+    second: metarig|shoot kneeling //// f_middle.02.L
+  - first:
+      74: 839072005733532892
+    second: metarig|shoot kneeling //// f_middle.03.L
+  - first:
+      74: -7934521695990597452
+    second: metarig|shoot kneeling //// f_ring.01.L
+  - first:
+      74: 4611986007564360174
+    second: metarig|shoot kneeling //// f_ring.02.L
+  - first:
+      74: 8685067461868729083
+    second: metarig|shoot kneeling //// f_ring.03.L
+  - first:
+      74: -410406395205645396
+    second: metarig|shoot kneeling //// f_pinky.01.L
+  - first:
+      74: 4529687924844672913
+    second: metarig|shoot kneeling //// f_pinky.02.L
+  - first:
+      74: 7735999963449784063
+    second: metarig|shoot kneeling //// f_pinky.03.L
+  - first:
+      74: 1240467521686872691
+    second: metarig|shoot kneeling //// shoulder.R
+  - first:
+      74: -2729844366981162518
+    second: metarig|shoot kneeling //// upper_arm.R
+  - first:
+      74: -7645558426043653667
+    second: metarig|shoot kneeling //// forearm.R
+  - first:
+      74: 5829350264687279757
+    second: metarig|shoot kneeling //// hand.R
+  - first:
+      74: -7061767035787642633
+    second: metarig|shoot kneeling //// f_index.01.R
+  - first:
+      74: -7786615584238788242
+    second: metarig|shoot kneeling //// f_index.02.R
+  - first:
+      74: 691561978238700458
+    second: metarig|shoot kneeling //// f_index.03.R
+  - first:
+      74: -1530234346757759128
+    second: metarig|shoot kneeling //// thumb.01.R
+  - first:
+      74: 6817440756491172051
+    second: metarig|shoot kneeling //// thumb.02.R
+  - first:
+      74: -1830909623038457433
+    second: metarig|shoot kneeling //// thumb.03.R
+  - first:
+      74: 5120966037674410305
+    second: metarig|shoot kneeling //// f_middle.01.R
+  - first:
+      74: -6595716144228501943
+    second: metarig|shoot kneeling //// f_middle.02.R
+  - first:
+      74: 8820552250234053165
+    second: metarig|shoot kneeling //// f_middle.03.R
+  - first:
+      74: -2688102256645217042
+    second: metarig|shoot kneeling //// f_ring.01.R
+  - first:
+      74: -4462441325656126633
+    second: metarig|shoot kneeling //// f_ring.02.R
+  - first:
+      74: 3651626576973408149
+    second: metarig|shoot kneeling //// f_ring.03.R
+  - first:
+      74: -5319301684459753016
+    second: metarig|shoot kneeling //// f_pinky.01.R
+  - first:
+      74: -5653625229270925713
+    second: metarig|shoot kneeling //// f_pinky.02.R
+  - first:
+      74: -8351866584641385378
+    second: metarig|shoot kneeling //// f_pinky.03.R
+  - first:
+      74: -7926438528008303968
+    second: metarig|shoot kneeling //// thigh.L
+  - first:
+      74: 1896424307005115851
+    second: metarig|shoot kneeling //// shin.L
+  - first:
+      74: 2101926085242056659
+    second: metarig|shoot kneeling //// foot.L
+  - first:
+      74: 2544025182662709033
+    second: metarig|shoot kneeling //// toe.L
+  - first:
+      74: -2057048399534517078
+    second: metarig|shoot kneeling //// thigh.R
+  - first:
+      74: 2880640890992798595
+    second: metarig|shoot kneeling //// shin.R
+  - first:
+      74: 4982293676191419875
+    second: metarig|shoot kneeling //// foot.R
+  - first:
+      74: -7206330590372079077
+    second: metarig|shoot kneeling //// toe.R
+  - first:
+      74: 8090812721178448352
+    second: metarig|shoot standing //// spine
+  - first:
+      74: 3167554328683485518
+    second: metarig|shoot standing //// spine.001
+  - first:
+      74: 2926114227910472031
+    second: metarig|shoot standing //// spine.002
+  - first:
+      74: 2074104580042658536
+    second: metarig|shoot standing //// spine.003
+  - first:
+      74: 5465809350041286734
+    second: metarig|shoot standing //// spine.004
+  - first:
+      74: 3816161196729772819
+    second: metarig|shoot standing //// spine.005
+  - first:
+      74: 2454504005925545990
+    second: metarig|shoot standing //// spine.006
+  - first:
+      74: 4177893852594436585
+    second: metarig|shoot standing //// shoulder.L
+  - first:
+      74: 2119050428524617777
+    second: metarig|shoot standing //// upper_arm.L
+  - first:
+      74: -1316692715954779743
+    second: metarig|shoot standing //// forearm.L
+  - first:
+      74: 7854414805466319562
+    second: metarig|shoot standing //// hand.L
+  - first:
+      74: -3218994152754794989
+    second: metarig|shoot standing //// f_index.01.L
+  - first:
+      74: 1770452544845682214
+    second: metarig|shoot standing //// f_index.02.L
+  - first:
+      74: 6051139561058300976
+    second: metarig|shoot standing //// f_index.03.L
+  - first:
+      74: 2495209429511651649
+    second: metarig|shoot standing //// thumb.01.L
+  - first:
+      74: -1657263252303233031
+    second: metarig|shoot standing //// thumb.02.L
+  - first:
+      74: -2703586236895984883
+    second: metarig|shoot standing //// thumb.03.L
+  - first:
+      74: -8872525343266429339
+    second: metarig|shoot standing //// f_middle.01.L
+  - first:
+      74: 6156288728662080651
+    second: metarig|shoot standing //// f_middle.02.L
+  - first:
+      74: -6685012068202941149
+    second: metarig|shoot standing //// f_middle.03.L
+  - first:
+      74: -4661980764907753380
+    second: metarig|shoot standing //// f_ring.01.L
+  - first:
+      74: 8152107517326594423
+    second: metarig|shoot standing //// f_ring.02.L
+  - first:
+      74: 1382145528771462865
+    second: metarig|shoot standing //// f_ring.03.L
+  - first:
+      74: 1353960829807837896
+    second: metarig|shoot standing //// f_pinky.01.L
+  - first:
+      74: 1583209076656577460
+    second: metarig|shoot standing //// f_pinky.02.L
+  - first:
+      74: -3537977151202767609
+    second: metarig|shoot standing //// f_pinky.03.L
+  - first:
+      74: 5547944192060416666
+    second: metarig|shoot standing //// shoulder.R
+  - first:
+      74: 2630953256717394285
+    second: metarig|shoot standing //// upper_arm.R
+  - first:
+      74: 2349453260944558436
+    second: metarig|shoot standing //// forearm.R
+  - first:
+      74: -1632868618634802884
+    second: metarig|shoot standing //// hand.R
+  - first:
+      74: 6012211123085871349
+    second: metarig|shoot standing //// f_index.01.R
+  - first:
+      74: -3249404997804834531
+    second: metarig|shoot standing //// f_index.02.R
+  - first:
+      74: -4938583627267403134
+    second: metarig|shoot standing //// f_index.03.R
+  - first:
+      74: 4143528073684596114
+    second: metarig|shoot standing //// thumb.01.R
+  - first:
+      74: -8597012018082878262
+    second: metarig|shoot standing //// thumb.02.R
+  - first:
+      74: 3322593630464119604
+    second: metarig|shoot standing //// thumb.03.R
+  - first:
+      74: -3033158490878158699
+    second: metarig|shoot standing //// f_middle.01.R
+  - first:
+      74: -8564188769927854229
+    second: metarig|shoot standing //// f_middle.02.R
+  - first:
+      74: 4808598607114412584
+    second: metarig|shoot standing //// f_middle.03.R
+  - first:
+      74: -8392838720786165337
+    second: metarig|shoot standing //// f_ring.01.R
+  - first:
+      74: -7516482157818328185
+    second: metarig|shoot standing //// f_ring.02.R
+  - first:
+      74: 3094516031778601823
+    second: metarig|shoot standing //// f_ring.03.R
+  - first:
+      74: 6809998840754510567
+    second: metarig|shoot standing //// f_pinky.01.R
+  - first:
+      74: -799686854411790935
+    second: metarig|shoot standing //// f_pinky.02.R
+  - first:
+      74: 964805353019563639
+    second: metarig|shoot standing //// f_pinky.03.R
+  - first:
+      74: 3215544177519821943
+    second: metarig|shoot standing //// thigh.L
+  - first:
+      74: 2862779129122947238
+    second: metarig|shoot standing //// shin.L
+  - first:
+      74: 3612593186826558562
+    second: metarig|shoot standing //// foot.L
+  - first:
+      74: 2536187464619457440
+    second: metarig|shoot standing //// toe.L
+  - first:
+      74: 4173501405747191784
+    second: metarig|shoot standing //// thigh.R
+  - first:
+      74: 1241117072563196621
+    second: metarig|shoot standing //// shin.R
+  - first:
+      74: 4441720786914574831
+    second: metarig|shoot standing //// foot.R
+  - first:
+      74: 1083111864740543144
+    second: metarig|shoot standing //// toe.R
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 0
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: metarig|die
+      takeName: metarig|die
+      internalID: 0
+      firstFrame: 20
+      lastFrame: 26
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: metarig|grab
+      takeName: metarig|grab
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: metarig|ground pound
+      takeName: metarig|ground pound
+      internalID: 0
+      firstFrame: 20
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: metarig|hit
+      takeName: metarig|hit
+      internalID: 0
+      firstFrame: 15
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: metarig|idle kneeling
+      takeName: metarig|idle kneeling
+      internalID: 0
+      firstFrame: 20
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: metarig|idle standing
+      takeName: metarig|idle standing
+      internalID: 0
+      firstFrame: 20
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: metarig|jump
+      takeName: metarig|jump
+      internalID: 0
+      firstFrame: 20
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: metarig|knee kick
+      takeName: metarig|knee kick
+      internalID: 0
+      firstFrame: 5
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: metarig|lunge
+      takeName: metarig|lunge
+      internalID: 0
+      firstFrame: 20
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: metarig|run
+      takeName: metarig|run
+      internalID: 0
+      firstFrame: 20
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: metarig|shoot kneeling
+      takeName: metarig|shoot kneeling
+      internalID: 0
+      firstFrame: 20
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: metarig|shoot standing
+      takeName: metarig|shoot standing
+      internalID: 0
+      firstFrame: 20
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: mya_base - Copy - Copy(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: body
+      parentName: mya_base - Copy - Copy(Clone)
+      position: {x: -0, y: 1.9342798, z: 0}
+      rotation: {x: 0.000000021855692, y: 5.2586386e-32, z: 1.11022296e-16, w: 1}
+      scale: {x: 25.476624, y: 25.476624, z: 25.476624}
+    - name: Jacket
+      parentName: mya_base - Copy - Copy(Clone)
+      position: {x: 0.4710142, y: 0, z: 0}
+      rotation: {x: 0.5000001, y: -0.50000006, z: 0.4999999, w: -0.49999994}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Pants
+      parentName: mya_base - Copy - Copy(Clone)
+      position: {x: 0.3054403, y: -0.29625338, z: 0}
+      rotation: {x: 0.4999999, y: 0.5000001, z: -0.5000001, w: -0.49999988}
+      scale: {x: -100, y: -61.475815, z: -100}
+    - name: Shirt
+      parentName: mya_base - Copy - Copy(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.5000001, y: -0.50000006, z: 0.4999999, w: -0.49999994}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Boots
+      parentName: mya_base - Copy - Copy(Clone)
+      position: {x: -0, y: 1.9342798, z: 0}
+      rotation: {x: 0.000000021855692, y: 5.2586386e-32, z: 1.11022296e-16, w: 1}
+      scale: {x: 25.476624, y: 25.476624, z: 25.476624}
+    - name: Hair
+      parentName: mya_base - Copy - Copy(Clone)
+      position: {x: -0, y: 1.881087, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: metarig
+      parentName: mya_base - Copy - Copy(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.50000006, y: -0.49999994, z: -0.5, w: -0.5}
+      scale: {x: 100, y: 100, z: 100}
+    - name: spine
+      parentName: metarig
+      position: {x: -1.7763568e-17, y: -0.0000000023841857, z: 0.023673726}
+      rotation: {x: 0.5271591, y: -0.5271591, z: -0.47127846, w: 0.4712784}
+      scale: {x: 1, y: 1, z: 1}
+    - name: spine.001
+      parentName: spine
+      position: {x: -0, y: 0.0034054224, z: 5.5879353e-11}
+      rotation: {x: -0.024715295, y: 3.976831e-14, z: 0.0000000058925846, w: 0.9996945}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+    - name: spine.002
+      parentName: spine.001
+      position: {x: 1.0095587e-17, y: 0.0026947465, z: 3.2305252e-11}
+      rotation: {x: -0.039759226, y: -3.1826583e-15, z: 0.00000000947934, w: 0.99920934}
+      scale: {x: 1, y: 1, z: 1}
+    - name: spine.003
+      parentName: spine.002
+      position: {x: 9.949302e-19, y: 0.0032061392, z: 4.6566128e-12}
+      rotation: {x: -0.0010295766, y: 0.00000011920925, z: 1.2273335e-10, w: 0.99999946}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: spine.004
+      parentName: spine.003
+      position: {x: -0, y: 0.002862586, z: -1.8626451e-11}
+      rotation: {x: -0.02375023, y: -0.00000012886923, z: -0.000000007050353, w: 0.99971795}
+      scale: {x: 1, y: 1, z: 1}
+    - name: spine.005
+      parentName: spine.004
+      position: {x: -1.5543122e-17, y: 0.00061636907, z: 6.5192574e-11}
+      rotation: {x: 0.06179307, y: -0.00000011023098, z: -0.000000013996279, w: 0.998089}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: spine.006
+      parentName: spine.005
+      position: {x: 2.8865798e-17, y: 0.0009977429, z: -6.519259e-11}
+      rotation: {x: 0.0044925553, y: 0.00000012214203, z: 0.0000000011528554, w: 0.9999899}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: spine.006_end
+      parentName: spine.006
+      position: {x: -0, y: 0.0052889036, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shoulder.L
+      parentName: spine.003
+      position: {x: -0.000183, y: 0.002316354, z: 0.00078765047}
+      rotation: {x: -0.5449568, y: 0.4245348, z: 0.40981248, w: 0.59568954}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: upper_arm.L
+      parentName: shoulder.L
+      position: {x: -0.00015474783, y: 0.0036091502, z: -0.00024111177}
+      rotation: {x: 0.061731137, y: -0.7150029, z: 0.1500087, w: 0.6800424}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.99999994}
+    - name: forearm.L
+      parentName: upper_arm.L
+      position: {x: 6.426126e-10, y: 0.0047704056, z: -3.7252902e-11}
+      rotation: {x: 0.040367328, y: 0.04568009, z: -0.016546102, w: 0.99800307}
+      scale: {x: 1.0000001, y: 1, z: 0.99999994}
+    - name: hand.L
+      parentName: forearm.L
+      position: {x: -4.901085e-10, y: 0.0063697207, z: 1.0244548e-10}
+      rotation: {x: 0.04298128, y: -0.0063988087, z: -0.045385867, w: 0.998024}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: f_index.01.L
+      parentName: hand.L
+      position: {x: -0.000015396396, y: 0.001998872, z: 0.00044548354}
+      rotation: {x: 0.058658704, y: -0.6634844, z: -0.0256822, w: 0.74544495}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: f_index.02.L
+      parentName: f_index.01.L
+      position: {x: 0.0000000010430813, y: 0.0006116521, z: -8.381903e-11}
+      rotation: {x: 0.031392023, y: -0.1861434, z: 0.023394698, w: 0.98174226}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: f_index.03.L
+      parentName: f_index.02.L
+      position: {x: 4.4703483e-10, y: 0.0004575174, z: 6.705522e-10}
+      rotation: {x: 0.0054315217, y: -0.05385706, z: -0.018966142, w: 0.9983538}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: f_index.03.L_end
+      parentName: f_index.03.L
+      position: {x: -0, y: 0.00062389614, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: thumb.01.L
+      parentName: hand.L
+      position: {x: -0.00019336278, y: 0.0012720703, z: 0.0006319098}
+      rotation: {x: -0.10429761, y: 0.9217794, z: 0.34852567, w: -0.13407002}
+      scale: {x: 0.99999994, y: 0.9999996, z: 1}
+    - name: thumb.02.L
+      parentName: thumb.01.L
+      position: {x: -1.3038516e-10, y: 0.00041744427, z: 1.4901161e-10}
+      rotation: {x: -0.0078439135, y: -0.13739118, z: 0.030987617, w: 0.99000096}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: thumb.03.L
+      parentName: thumb.02.L
+      position: {x: -6.1467287e-10, y: 0.0006696663, z: 8.1956386e-10}
+      rotation: {x: -0.021235958, y: -0.06285907, z: 0.034659956, w: 0.99719435}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: thumb.03.L_end
+      parentName: thumb.03.L
+      position: {x: -0, y: 0.00054979644, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: f_middle.01.L
+      parentName: hand.L
+      position: {x: 0.0001510813, y: 0.0021414827, z: 0.00002396796}
+      rotation: {x: 0.04909204, y: -0.6982062, z: 0.009352155, w: 0.7141503}
+      scale: {x: 0.9999998, y: 0.99999976, z: 1}
+    - name: f_middle.02.L
+      parentName: f_middle.01.L
+      position: {x: 3.72529e-10, y: 0.00078428944, z: 4.25498e-10}
+      rotation: {x: 0.04187737, y: 0.039100148, z: -0.00686842, w: 0.99833375}
+      scale: {x: 0.99999994, y: 0.99999976, z: 0.9999999}
+    - name: f_middle.03.L
+      parentName: f_middle.02.L
+      position: {x: 1.4901161e-10, y: 0.00054249127, z: -3.678724e-10}
+      rotation: {x: 0.03740546, y: 0.064156525, z: 0.0047143637, w: 0.99722743}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: f_middle.03.L_end
+      parentName: f_middle.03.L
+      position: {x: -0, y: 0.00064952916, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: f_ring.01.L
+      parentName: hand.L
+      position: {x: 0.00003777689, y: 0.0022730583, z: -0.00031377986}
+      rotation: {x: 0.029912125, y: -0.647817, z: 0.028848223, w: 0.76066166}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.9999999}
+    - name: f_ring.02.L
+      parentName: f_ring.01.L
+      position: {x: -2.2351741e-10, y: 0.0006181118, z: -0.0000000010058283}
+      rotation: {x: -0.0092227915, y: 0.07633116, z: -0.040147115, w: 0.99623126}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: f_ring.03.L
+      parentName: f_ring.02.L
+      position: {x: -1.862645e-10, y: 0.0006346878, z: 0.0000000012572855}
+      rotation: {x: 0.0039552143, y: 0.29226613, z: 0.016013587, w: 0.9561948}
+      scale: {x: 0.99999994, y: 1, z: 1.0000001}
+    - name: f_ring.03.L_end
+      parentName: f_ring.03.L
+      position: {x: -0, y: 0.0005159623, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: f_pinky.01.L
+      parentName: hand.L
+      position: {x: -0.00021754249, y: 0.0022153582, z: -0.00067431584}
+      rotation: {x: 0.038730465, y: -0.6233906, z: 0.026196226, w: 0.78051126}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: f_pinky.02.L
+      parentName: f_pinky.01.L
+      position: {x: -2.948218e-10, y: 0.0005950639, z: 1.772787e-10}
+      rotation: {x: 0.03870849, y: 0.21260239, z: 0.011671413, w: 0.976302}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: f_pinky.03.L
+      parentName: f_pinky.02.L
+      position: {x: 5.9604643e-10, y: 0.0005304328, z: -0.0000000011362136}
+      rotation: {x: 0.038559902, y: 0.22470054, z: -0.0050315815, w: 0.97365165}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: f_pinky.03.L_end
+      parentName: f_pinky.03.L
+      position: {x: -0, y: 0.00027512328, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shoulder.R
+      parentName: spine.003
+      position: {x: 0.000183, y: 0.002316354, z: 0.00078765047}
+      rotation: {x: -0.5449568, y: -0.4245348, z: -0.40981248, w: 0.59568954}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: upper_arm.R
+      parentName: shoulder.R
+      position: {x: 0.00015474783, y: 0.0036091502, z: -0.00024111177}
+      rotation: {x: 0.06173066, y: 0.71500283, z: -0.15000911, w: 0.68004227}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.99999994}
+    - name: forearm.R
+      parentName: upper_arm.R
+      position: {x: -6.426126e-10, y: 0.0047704056, z: -3.7252902e-11}
+      rotation: {x: 0.040367316, y: -0.045679927, z: 0.01654639, w: 0.998003}
+      scale: {x: 1.0000001, y: 1, z: 0.99999994}
+    - name: hand.R
+      parentName: forearm.R
+      position: {x: 4.901085e-10, y: 0.0063697207, z: 1.0244548e-10}
+      rotation: {x: 0.042981282, y: 0.006398807, z: 0.045385025, w: 0.99802405}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: gun
+      parentName: hand.R
+      position: {x: 0.0010527928, y: 0.014497925, z: -0.00023765906}
+      rotation: {x: 0.4777078, y: 0.52423334, z: 0.4498189, w: 0.54280543}
+      scale: {x: 0.24715915, y: 0.09974996, z: 0.29118413}
+    - name: f_index.01.R
+      parentName: hand.R
+      position: {x: 0.000015396396, y: 0.001998872, z: 0.00044548354}
+      rotation: {x: 0.058662903, y: 0.6634843, z: 0.025681801, w: 0.7454447}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: f_index.02.R
+      parentName: f_index.01.R
+      position: {x: -0.0000000010430813, y: 0.0006116521, z: -8.381903e-11}
+      rotation: {x: 0.031390682, y: 0.18614355, z: -0.023394305, w: 0.98174226}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: f_index.03.R
+      parentName: f_index.02.R
+      position: {x: -4.4703483e-10, y: 0.0004575174, z: 6.705522e-10}
+      rotation: {x: 0.0054315217, y: 0.05385706, z: 0.018966142, w: 0.9983538}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: f_index.03.R_end
+      parentName: f_index.03.R
+      position: {x: -0, y: 0.00062389614, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: thumb.01.R
+      parentName: hand.R
+      position: {x: 0.00019336278, y: 0.0012720703, z: 0.0006319098}
+      rotation: {x: 0.104295366, y: 0.92177933, z: 0.34852573, w: 0.1340717}
+      scale: {x: 0.99999994, y: 0.9999996, z: 1}
+    - name: thumb.02.R
+      parentName: thumb.01.R
+      position: {x: 1.3038516e-10, y: 0.00041744427, z: 1.4901161e-10}
+      rotation: {x: -0.007840087, y: 0.13739038, z: -0.030984402, w: 0.9900012}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: thumb.03.R
+      parentName: thumb.02.R
+      position: {x: 6.1467287e-10, y: 0.0006696663, z: 8.1956386e-10}
+      rotation: {x: -0.021239182, y: 0.06285887, z: -0.034662705, w: 0.9971942}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: thumb.03.R_end
+      parentName: thumb.03.R
+      position: {x: -0, y: 0.00054979644, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: f_middle.01.R
+      parentName: hand.R
+      position: {x: -0.0001510813, y: 0.0021414827, z: 0.00002396796}
+      rotation: {x: 0.049091678, y: 0.6982063, z: -0.009351309, w: 0.7141502}
+      scale: {x: 0.9999998, y: 0.99999976, z: 1}
+    - name: f_middle.02.R
+      parentName: f_middle.01.R
+      position: {x: -3.72529e-10, y: 0.00078428944, z: 4.25498e-10}
+      rotation: {x: 0.04187737, y: -0.039100148, z: 0.00686842, w: 0.99833375}
+      scale: {x: 0.99999994, y: 0.99999976, z: 0.9999999}
+    - name: f_middle.03.R
+      parentName: f_middle.02.R
+      position: {x: -1.4901161e-10, y: 0.00054249127, z: -3.678724e-10}
+      rotation: {x: 0.03740546, y: -0.064156525, z: -0.0047143637, w: 0.99722743}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: f_middle.03.R_end
+      parentName: f_middle.03.R
+      position: {x: -0, y: 0.00064952916, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: f_ring.01.R
+      parentName: hand.R
+      position: {x: -0.00003777689, y: 0.0022730583, z: -0.00031377986}
+      rotation: {x: 0.029909678, y: 0.6478169, z: -0.028846588, w: 0.7606619}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.9999999}
+    - name: f_ring.02.R
+      parentName: f_ring.01.R
+      position: {x: 2.2351741e-10, y: 0.0006181118, z: -0.0000000010058283}
+      rotation: {x: -0.009222932, y: -0.07633142, z: 0.040148314, w: 0.9962312}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: f_ring.03.R
+      parentName: f_ring.02.R
+      position: {x: 1.862645e-10, y: 0.0006346878, z: 0.0000000012572855}
+      rotation: {x: 0.0039552143, y: -0.29226613, z: -0.016013587, w: 0.9561948}
+      scale: {x: 0.99999994, y: 1, z: 1.0000001}
+    - name: f_ring.03.R_end
+      parentName: f_ring.03.R
+      position: {x: -0, y: 0.0005159623, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: f_pinky.01.R
+      parentName: hand.R
+      position: {x: 0.00021754249, y: 0.0022153582, z: -0.00067431584}
+      rotation: {x: 0.038728163, y: 0.6233911, z: -0.026192166, w: 0.78051126}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: f_pinky.02.R
+      parentName: f_pinky.01.R
+      position: {x: 2.948218e-10, y: 0.0005950639, z: 1.772787e-10}
+      rotation: {x: 0.0387126, y: -0.2126023, z: -0.011673226, w: 0.97630185}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: f_pinky.03.R
+      parentName: f_pinky.02.R
+      position: {x: -5.9604643e-10, y: 0.0005304328, z: -0.0000000011362136}
+      rotation: {x: 0.03855371, y: -0.22470038, z: 0.005030012, w: 0.9736519}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: f_pinky.03.R_end
+      parentName: f_pinky.03.R
+      position: {x: -0, y: 0.00027512328, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: thigh.L
+      parentName: spine
+      position: {x: -0.001917057, y: 0.00077232806, z: 0.0003439671}
+      rotation: {x: 0.998895, y: 0.012172383, z: 0.0022257587, w: 0.04534008}
+      scale: {x: 1.0000019, y: 1, z: 1.0000275}
+    - name: shin.L
+      parentName: thigh.L
+      position: {x: 9.385985e-11, y: 0.0101757515, z: -3.1432135e-11}
+      rotation: {x: 0.019186733, y: -0.002544744, z: 0.012029158, w: 0.99974036}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: foot.L
+      parentName: shin.L
+      position: {x: 9.296386e-12, y: 0.012201319, z: 9.284349e-11}
+      rotation: {x: -0.50612384, y: 0.000000016324162, z: -0.00000023077163, w: 0.86246085}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: toe.L
+      parentName: foot.L
+      position: {x: 9.054757e-11, y: 0.002490751, z: -1.4309648e-10}
+      rotation: {x: 0.000000036062534, y: 0.9777792, z: -0.20963737, w: 0.0000002646365}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: toe.L_end
+      parentName: toe.L
+      position: {x: -0, y: 0.0016576798, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: thigh.R
+      parentName: spine
+      position: {x: 0.001917057, y: 0.00077232806, z: 0.00034396618}
+      rotation: {x: 0.99889505, y: -0.012172213, z: -0.0022259972, w: 0.04533955}
+      scale: {x: 1.0000019, y: 1, z: 1.0000277}
+    - name: shin.R
+      parentName: thigh.R
+      position: {x: 4.583853e-11, y: 0.0101757515, z: -1.9208527e-11}
+      rotation: {x: 0.019186726, y: 0.0025447295, z: -0.012029147, w: 0.99974036}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: foot.R
+      parentName: shin.R
+      position: {x: 8.090456e-11, y: 0.012201318, z: 8.3744e-11}
+      rotation: {x: -0.50612384, y: -0.000000017086226, z: 0.00000023207059, w: 0.86246085}
+      scale: {x: 1, y: 1, z: 1}
+    - name: toe.R
+      parentName: foot.R
+      position: {x: 5.8463526e-11, y: 0.002490751, z: 0.0000000010148961}
+      rotation: {x: -0.00000003606259, y: 0.9777792, z: -0.20963739, w: -0.00000026463647}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: toe.R_end
+      parentName: toe.R
+      position: {x: -0, y: 0.0016576798, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Empty
+      parentName: mya_base - Copy - Copy(Clone)
+      position: {x: 0.011055483, y: 1.9342798, z: 0.058166884}
+      rotation: {x: 0.000000021855692, y: 2.4264693e-24, z: 1.1102229e-16, w: 1}
+      scale: {x: 25.476624, y: 25.476624, z: 25.476624}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: body
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 1
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
