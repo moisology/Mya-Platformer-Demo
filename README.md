@@ -10,4 +10,4 @@ The game only has one attack button alongside movement.
 With this I was able to create 4 different attacking actions for the player.
 I also added variety in the projectiles available to the player.
 
-This demo is part of a greater personal project currrently under development.
+This demo is part of a greater personal project currently under development.
